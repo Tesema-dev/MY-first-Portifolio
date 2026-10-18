@@ -41,8 +41,7 @@ portfolio/
 1. Clone the repository:
 
    ```bash
-[   git clone YOUR-GITHUB-REPOSITORY-LINK
-](https://github.com/Tesema-dev/MY-first-Portifolio/tree/main)   ```
+[clone the portifolio](https://github.com/Tesema-dev/MY-first-Portifolio/tree/main)   ```
 
 2. Open the project folder.
 3. Open `index.html` in your browser.
